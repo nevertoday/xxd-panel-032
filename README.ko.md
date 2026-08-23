@@ -45,11 +45,26 @@ XXD Panel 032는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **축소와 단색 검증:** 워드마크는 썸네일에서도 읽히고 단색에서도 고유합니다.
 - **절제된 제시:** 옅은 단색 바탕, 흑백 또는 원본에서 얻은 한 가지 포인트색, 중간 크기의 마크와 넓은 여백을 사용하며 목업과 광고 장면을 배제합니다.
 
-## 예시 · 곧 추가됩니다
+## 예시 · X에서
 
-저장소에는 향후 예시를 위한 [`assets/examples/`](assets/examples/) 폴더가 마련되어 있습니다. 프로젝트 작성자가 확인한 032 완성작만 추가하며, 그전에는 다른 스타일의 게시물이나 이미지를 자리표시자로 쓰지 않습니다.
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
+> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
+> 원문 제목에는 VOL.026으로 잘못 표기되어 있지만, 작성자가 이 로고/워드마크 예시는 XXD Panel 032에 해당함을 확인했습니다.
 
-향후 예시는 032의 적용 범위만 보여 줍니다. 예시의 주제, 여백 비율, 팔레트, 문구, 화면 비율은 생성 참조나 기본값이 되지 않습니다.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 032 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 032 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 032 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 032 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 032의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 네 가지 출력, 하나의 통합형 워드마크 시스템
 
