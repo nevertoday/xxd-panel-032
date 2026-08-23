@@ -1,0 +1,44 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>XXD Panel 032</title>
+  <desc>A custom SWAN wordmark whose S is rebuilt from a swan-neck contour and whose beak becomes the terminal; the source feature and lettering form one inseparable mark.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="400" rx="30"/></clipPath>
+    <linearGradient id="ground" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F4ED"/><stop offset="1" stop-color="#EAEFEA"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="url(#ground)"/>
+    <path d="M705 42V358" stroke="#183B36" stroke-opacity=".12"/>
+    <path d="M736 76H1153M736 316H1153" stroke="#183B36" stroke-opacity=".1"/>
+    <g transform="translate(62 49)">
+      <rect width="229" height="34" rx="7" fill="#183B36"/>
+      <text x="17" y="22" fill="#F7F4ED" font-family="Arial, sans-serif" font-size="13" font-weight="900" letter-spacing="2">🦁 XXD / IMAGE SKILL</text>
+      <text x="0" y="112" fill="#172321" font-family="Georgia, serif" font-size="67" font-weight="700" letter-spacing="-3">PANEL <tspan fill="#D45B45">032</tspan></text>
+      <text x="2" y="151" fill="#183B36" font-family="Arial, sans-serif" font-size="17" font-weight="900" letter-spacing=".55">TEXT–IMAGE UNITY · SOURCE FEATURE · OPTICAL SPACING</text>
+      <text x="2" y="195" fill="#172321" font-family="sans-serif" font-size="18" font-weight="800">图文一体 · 源图入字 · 视觉字距 · 高级留白</text>
+      <text x="2" y="226" fill="#172321" fill-opacity=".75" font-family="sans-serif" font-size="14" font-weight="700">図文一体の字標 · 글자와 이미지의 통합</text>
+      <text x="2" y="257" fill="#172321" fill-opacity=".75" font-family="Arial, sans-serif" font-size="14" font-weight="700">وحدة النص والصورة · دمج سمة المصدر</text>
+    </g>
+    <g transform="translate(62 326)">
+      <rect width="146" height="38" rx="7" fill="#183B36"/><text x="73" y="25" text-anchor="middle" fill="#F7F4ED" font-family="Courier New, monospace" font-size="12" font-weight="900">INTEGRATED MARK</text>
+      <rect x="158" width="139" height="38" rx="7" fill="#D45B45"/><text x="227.5" y="25" text-anchor="middle" fill="#FFF8F0" font-family="Courier New, monospace" font-size="12" font-weight="900">NATIVE SCRIPT</text>
+      <rect x="309" width="105" height="38" rx="7" fill="#D9B765"/><text x="361.5" y="25" text-anchor="middle" fill="#172321" font-family="Courier New, monospace" font-size="12" font-weight="900">4 MODES</text>
+      <rect x="426" width="177" height="38" rx="7" fill="#A7BBB2"/><text x="514.5" y="25" text-anchor="middle" fill="#172321" font-family="Courier New, monospace" font-size="12" font-weight="900">WALLPAPER PACK</text>
+    </g>
+    <g transform="translate(742 92)">
+      <text x="0" y="-15" fill="#183B36" fill-opacity=".5" font-family="Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="2.3">THE IMAGE BECOMES THE NAME</text>
+      <!-- The swan-neck contour is the actual S: its head and beak form the upper terminal. -->
+      <path d="M31 54C62 18 131 16 157 42C172 57 162 75 137 80C110 85 72 75 53 91C33 108 45 133 75 139C104 145 139 135 156 113" stroke="#172321" stroke-width="29" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M39 49C51 31 69 21 91 18C82 27 80 39 86 50C69 49 53 49 39 49Z" fill="#D45B45"/>
+      <circle cx="105" cy="34" r="3.8" fill="#F7F4ED"/>
+      <text x="172" y="145" fill="#172321" font-family="Arial, Helvetica, sans-serif" font-size="124" font-weight="800" letter-spacing="-8">WAN</text>
+      <path d="M26 181H402" stroke="#183B36" stroke-opacity=".22"/>
+      <text x="27" y="205" fill="#183B36" font-family="Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="1.7">SOURCE CONTOUR → GLYPH TERMINAL → ONE WORDMARK</text>
+      <g transform="translate(27 226)">
+        <circle cx="7" cy="7" r="7" fill="#D45B45"/><text x="22" y="11" fill="#172321" font-family="Arial, sans-serif" font-size="12" font-weight="700">thumbnail legibility</text>
+        <circle cx="166" cy="7" r="7" fill="#183B36"/><text x="181" y="11" fill="#172321" font-family="Arial, sans-serif" font-size="12" font-weight="700">monochrome proof</text>
+      </g>
+    </g>
+  </g>
+</svg>
