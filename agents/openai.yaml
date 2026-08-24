@@ -1,4 +1,4 @@
 interface:
-  display_name: "XXD Panel 032"
+  display_name: "/xxd-panel-032"
   short_description: "Create source-integrated custom wordmarks and logos."
   default_prompt: "Use $xxd-panel-032 to convert my photograph's defining contour, structure, function, or negative space into the actual construction of one concise native-script custom wordmark, with inseparable text and image, refined geometry and kerning, monochrome or one source accent, medium scale, and generous whitespace; ask first for modes and copy or locale preferences."
