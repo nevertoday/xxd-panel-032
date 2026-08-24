@@ -43,7 +43,18 @@ The main text uses a verified proper name when available or a concise target-loc
 
 These samples demonstrate the 032 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 032 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Turn the photograph's defining feature into the actual construction of a custom wordmark |
+| **Recognizable signature** | TEXT–IMAGE UNITY · NATIVE LETTERING · SOURCE FEATURE · OPTICAL SPACING · GENEROUS WHITESPACE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Logo from a photo” easily collapses into an icon beside a title, a stock font with a tiny illustration, a tourism badge, or an unreadable rebus.
 
@@ -55,7 +66,7 @@ lock identity / proportion / gesture / function → resolve one short native mai
 
 If an unrelated photograph could replace the source without materially changing the embedded letterform intervention, wordmark silhouette, countershape, stroke logic, spacing, or name choice, the result is not 032.
 
-## The 032 visual contract
+## What makes the finished style recognizable
 
 - **Source identity:** at least three specific cues preserve proportion, contour flow, pose, direction, action, function, and relation.
 - **Native, grounded naming:** use a verified proper name or a short source-grounded word in the target locale; never invent a brand owner or pseudo-script.
