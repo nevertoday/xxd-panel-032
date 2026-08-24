@@ -1,5 +1,13 @@
 # XXD Panel 032 | Source-Integrated Custom Wordmark Production Prompt
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Process only the one source photograph explicitly supplied for this current task. Lock the principal subject or inseparable relation, contour, proportion, pose, direction, action, function, openings, connections, negative shapes, and colour character. Preserve at least three source-specific recognition cues. Never borrow names, icons, letter interventions, palettes, or compositions from old outputs, samples, or another input.
 
 ## Text and image must become one mark
@@ -28,7 +36,6 @@ Obey automatic, exact-user, or text-free copy mode. In automatic mode use the gr
 
 ## Mode and acceptance
 
-Obey the appended `OUTPUT MODE`, `FINAL SIZE`, and `DESIGN FRAME`. Paired modes generate only the design half; design-only and wallpapers show no source photograph. Recompose every wallpaper for its device, never crop another device result, and render no system UI or mockup. A linked pack always references the original photo plus the same approved anchor and never chains derivatives.
 
 Hard gate: at least three source cues; verified or source-grounded main text in the resolved native script; one defining source feature embedded in actual letterform or wordmark construction; two-way dependency between text and image; shared stroke and geometry DNA; refined kerning, counters, silhouette, and optical centre; thumbnail and monochrome legibility; medium scale and generous whitespace; no icon-plus-title, stock font, generic monogram, tourism emblem, pseudo-lettering, cartoon, decorative badge, mockup, gradient, bevel, shadow, 3D, photo fragment, or pseudo-text.
 
