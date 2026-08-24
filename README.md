@@ -22,6 +22,27 @@ XXD Panel 032 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 主文本优先使用可靠专名，否则从源图提炼目标语言中的简短词语。文字与图形必须双向依赖，不能拆成“旁置图标＋普通标题”。统一笔画几何、精确字腔、逐对字距、缩略图与单色可读性、中等视觉尺度、极少颜色和大量留白，共同形成成熟品牌识别。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
+> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
+> 原推文标题误写为 VOL.026；作者已确认这组 Logo / 字标样张归属 XXD Panel 032。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 032 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 032 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 032 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 032 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 032 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 032
 
 普通“照片做 Logo”很容易退化成图标放在标题旁边、现成字体里塞一幅小插画、旅游徽章，或根本读不出来的猜字谜。
@@ -44,27 +65,6 @@ XXD Panel 032 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **精修视觉间距：** 逐对字距、内部字腔、外部负空间、越线量、平衡与视觉中心都有明确处理。
 - **缩小与单色成立：** 字标在缩略图可读，在单色中仍然独特。
 - **克制呈现：** 一个中等尺度标志、浅色纯底、黑白或一个源图点色与大量留白，替代样机和广告场景。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
-> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
-> 原推文标题误写为 VOL.026；作者已确认这组 Logo / 字标样张归属 XXD Panel 032。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 032 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 032 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 032 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 032 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 032 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

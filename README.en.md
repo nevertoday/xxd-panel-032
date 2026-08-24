@@ -22,6 +22,27 @@ XXD Panel 032 is an image-generation Skill for Codex and compatible agents. It e
 
 The main text uses a verified proper name when available or a concise target-locale word grounded in the source. Text and image pass a two-way dependency test: neither becomes a detachable icon beside ordinary type. Shared stroke geometry, precise counters, refined kerning, thumbnail and monochrome legibility, medium scale, minimal colour, and generous whitespace create a mature identity specimen.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
+> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
+> The original post title mistakenly says VOL.026; the author confirmed that these Logo / wordmark samples belong to XXD Panel 032.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 032 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 032 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 032 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 032 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 032 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Logo from a photo” easily collapses into an icon beside a title, a stock font with a tiny illustration, a tourism badge, or an unreadable rebus.
@@ -44,27 +65,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Refined spacing:** pair kerning, internal counters, external negative space, overshoot, balance, and optical centre are intentionally tuned.
 - **Small and monochrome proof:** the mark remains readable at thumbnail size and distinctive in one colour.
 - **Restrained presentation:** one medium-scale mark, pale ground, black/white or one source accent, and generous whitespace replace mockups and advertising scenery.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
-> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
-> The original post title mistakenly says VOL.026; the author confirmed that these Logo / wordmark samples belong to XXD Panel 032.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 032 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 032 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 032 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 032 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 032 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

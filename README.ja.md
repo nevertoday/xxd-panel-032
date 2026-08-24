@@ -22,6 +22,27 @@ XXD Panel 032 は、Codex と互換 Agent のための画像生成 Skill です�
 
 主文は確認できる固有名を優先し、なければ元写真に根拠を持つ短い語を対象言語で作ります。図と文字は相互依存し、普通の文字の隣に置けるアイコンへ分離できません。共通する線の幾何、精密なカウンター、光学的カーニング、縮小・単色での可読性、中程度の尺度、最小限の色、大きな余白が、成熟したアイデンティティを作ります。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
+> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
+> 元の投稿タイトルは VOL.026 と誤記されていますが、作者はこの Logo／ワードマーク作例が XXD Panel 032 に属すると確認しました。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 032 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 032 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 032 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 032 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 032 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 032 が必要なのか
 
 一般的な「写真からロゴ」は、題名の横に置くアイコン、既製書体に小さな絵を入れたもの、観光バッジ、または読めない判じ物へ崩れがちです。
@@ -44,27 +65,6 @@ XXD Panel 032 は、Codex と互換 Agent のための画像生成 Skill です�
 - **視覚間隔の精修：** ペアごとの字間、内部カウンター、外部負形、オーバーシュート、均衡、視覚中心を調整します。
 - **縮小・単色でも成立：** サムネイルで読め、単色でも固有性を保ちます。
 - **抑制した提示：** 中程度の一つのマーク、淡い無地、白黒または一つの元写真色、大きな余白を使い、モックアップを避けます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
-> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
-> 元の投稿タイトルは VOL.026 と誤記されていますが、作者はこの Logo／ワードマーク作例が XXD Panel 032 に属すると確認しました。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 032 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 032 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 032 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 032 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 032 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

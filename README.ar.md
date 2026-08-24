@@ -24,6 +24,27 @@ XXD Panel 032 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 يفضَّل للنص الرئيسي اسم علم موثَّق، وإن لم يوجد تُشتق كلمة أو عبارة قصيرة بلغة الجمهور من المصدر نفسه. يعتمد النص والصورة أحدهما على الآخر، فلا يبقى رمز منفصل بجوار خط عادي. وتنتج هوية ناضجة من منطق ضربات موحّد، وتجويفات دقيقة، وتباعد بصري مصقول، وقابلية للقراءة في المصغرات واللون الواحد، ومقياس متوسط، ولون مقتصد، وفراغ واسع.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
+> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
+> ورد في عنوان المنشور الأصلي VOL.026 بالخطأ؛ وقد أكد المؤلف أن نماذج الشعار والعلامة النصية هذه تخص XXD Panel 032.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 032 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 032 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 032 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 032 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 032 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 032؟
 
 ينحدر «الشعار المصنوع من صورة» بسهولة إلى أيقونة بجوار عنوان، أو رسم صغير داخل خط جاهز، أو شارة سياحية، أو لغز بصري لا يُقرأ.
@@ -46,27 +67,6 @@ XXD Panel 032 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **تباعد بصري مصقول:** يُضبط تقارب كل زوج، والتجويف الداخلي، والفراغ الخارجي، والتجاوز، والتوازن، والمركز البصري عمداً.
 - **اختبار المصغر واللون الواحد:** تبقى العلامة مقروءة في الحجم الصغير ومميزة بلون واحد.
 - **عرض مقتصد:** علامة واحدة متوسطة على أرضية فاتحة، بالأسود والأبيض أو بلكنة واحدة من المصدر، مع فراغ واسع ومن دون نموذج عرض أو مشهد إعلاني.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
-> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
-> ورد في عنوان المنشور الأصلي VOL.026 بالخطأ؛ وقد أكد المؤلف أن نماذج الشعار والعلامة النصية هذه تخص XXD Panel 032.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 032 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 032 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 032 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 032 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 032 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 
