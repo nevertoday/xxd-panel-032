@@ -16,17 +16,7 @@
 
 </div>
 
-> TEXT–IMAGE UNITY · NATIVE LETTERING · SOURCE FEATURE · OPTICAL SPACING · GENEROUS WHITESPACE
-
-XXD Panel 032 is an image-generation Skill for Codex and compatible agents. It extracts the photograph's defining contour, proportion, pose, opening, axis, connection, function, or negative shape and makes that feature construct a native-script letter, character, ligature, counter, terminal, crossbar, stroke junction, or the wordmark's whole silhouette.
-
-The main text uses a verified proper name when available or a concise target-locale word grounded in the source. Text and image pass a two-way dependency test: neither becomes a detachable icon beside ordinary type. Shared stroke geometry, precise counters, refined kerning, thumbnail and monochrome legibility, medium scale, minimal colour, and generous whitespace create a mature identity specimen.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
-> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
-> The original post title mistakenly says VOL.026; the author confirmed that these Logo / wordmark samples belong to XXD Panel 032.
 
 <table>
   <tr>
@@ -39,9 +29,19 @@ The main text uses a verified proper name when available or a concise target-loc
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
+> GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
+> The original post title mistakenly says VOL.026; the author confirmed that these Logo / wordmark samples belong to XXD Panel 032.
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090616800711229764">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 032 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> TEXT–IMAGE UNITY · NATIVE LETTERING · SOURCE FEATURE · OPTICAL SPACING · GENEROUS WHITESPACE
+
+XXD Panel 032 is an image-generation Skill for Codex and compatible agents. It extracts the photograph's defining contour, proportion, pose, opening, axis, connection, function, or negative shape and makes that feature construct a native-script letter, character, ligature, counter, terminal, crossbar, stroke junction, or the wordmark's whole silhouette.
+
+The main text uses a verified proper name when available or a concise target-locale word grounded in the source. Text and image pass a two-way dependency test: neither becomes a detachable icon beside ordinary type. Shared stroke geometry, precise counters, refined kerning, thumbnail and monochrome legibility, medium scale, minimal colour, and generous whitespace create a mature identity specimen.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 032 right for you?
