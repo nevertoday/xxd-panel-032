@@ -64,6 +64,21 @@
   </tr>
 </table>
 
+## 추가 3:4 상하 구성 예시
+
+위 16:9 예시와 같은 네 개의 독립 소스를 완전한 3:4 상하 캔버스로 다시 생성했습니다. 위쪽은 현실 사진을 유지하고 아래쪽은 Panel 032의 원본 프롬프트에 따라 재구성합니다. 영어 문구는 각 사진의 내용·분위기·함의에서만 생성했으며 모든 결과를 개별 검수했습니다.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 032 추가 상하 예시 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 032 추가 상하 예시 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 032 추가 상하 예시 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 032 추가 상하 예시 4"></td>
+  </tr>
+</table>
+
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
 > GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
 > 원문 제목에는 VOL.026으로 잘못 표기되어 있지만, 작성자가 이 로고/워드마크 예시는 XXD Panel 032에 해당함을 확인했습니다.

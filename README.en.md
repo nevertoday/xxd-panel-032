@@ -64,6 +64,21 @@ Check the samples below if you want to feel out the aesthetic. If you are ready,
   </tr>
 </table>
 
+## Additional 3:4 Top–Bottom Samples
+
+These four works reuse the same four independent sources as the 16:9 set above, now regenerated as complete 3:4 top–bottom canvases. The reality photograph stays above; the lower design follows Panel 032's original brief. English copy is generated only from each photograph's content, mood, or implication, and every result was individually reviewed.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 032 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 032 additional top-bottom sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 032 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 032 additional top-bottom sample 4"></td>
+  </tr>
+</table>
+
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090616800711229764) · 2026-08-21<br>
 > GPT2 x 浮雕 x 裁剪 x 冷静 x 美学提示词 x VOL.026<br>
 > The original post title mistakenly says VOL.026; the author confirmed that these Logo / wordmark samples belong to XXD Panel 032.
