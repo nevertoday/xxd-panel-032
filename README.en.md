@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 032
+# 🦁 XXD Panel 032｜Graphic Wordmark
 
 ### Turn the photograph's defining feature into the actual construction of a custom wordmark
 

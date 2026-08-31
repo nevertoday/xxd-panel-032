@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 032
+# 🦁 XXD Panel 032｜그래픽 워드마크
 
 ### 사진의 결정적 특징을 맞춤 워드마크 자체의 구조로
 

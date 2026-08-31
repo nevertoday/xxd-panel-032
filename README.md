@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 032
+# 🦁 XXD Panel 032｜图形字标
 
 ### 把照片最关键的特征，变成定制字标本身的结构
 
