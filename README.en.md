@@ -85,6 +85,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -101,29 +110,6 @@ The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remain
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-“Logo from a photo” easily collapses into an icon beside a title, a stock font with a tiny illustration, a tourism badge, or an unreadable rebus.
-
-032 reverses that logic:
-
-```text
-lock identity / proportion / gesture / function → resolve one short native main text → extract the strongest contour, opening, axis, connection, or negative shape → embed it into an actual glyph, counter, terminal, crossbar, junction, ligature, or whole-word silhouette → redraw the remaining letters with shared stroke DNA → refine kerning, counters, and optical centre → prove thumbnail and monochrome reading → present one medium-scale mark with minimal colour and generous whitespace
-```
-
-If an unrelated photograph could replace the source without materially changing the embedded letterform intervention, wordmark silhouette, countershape, stroke logic, spacing, or name choice, the result is not 032.
-
-## What makes the finished style recognizable
-
-- **Source identity:** at least three specific cues preserve proportion, contour flow, pose, direction, action, function, and relation.
-- **Native, grounded naming:** use a verified proper name or a short source-grounded word in the target locale; never invent a brand owner or pseudo-script.
-- **One source intervention:** embed one defining contour, function, opening, connection, or negative shape into real letterform construction.
-- **Two-way dependency:** removing the intervention makes the wordmark generic; removing the lettering does not leave a standalone icon.
-- **Shared lettering DNA:** stroke weight, terminals, curves, angles, counters, baseline, and optical corrections belong to one authored system.
-- **Refined spacing:** pair kerning, internal counters, external negative space, overshoot, balance, and optical centre are intentionally tuned.
-- **Small and monochrome proof:** the mark remains readable at thumbnail size and distinctive in one colour.
-- **Restrained presentation:** one medium-scale mark, pale ground, black/white or one source accent, and generous whitespace replace mockups and advertising scenery.
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
