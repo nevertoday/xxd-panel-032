@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 032｜Graphic Wordmark: turns the most recognisable outline, posture or feature of the photo's subject into part of a custom wordmark, so the letters and the image form one simple, geometric logo rather than an icon beside a title. A short name drawn from the subject, place or meaning, with at most a tiny secondary line, sits at a comfortable medium size on a plain light background in black and white or one colour taken from the photo. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-032 or asks for a custom logo, wordmark, lettermark or minimal brand mark from a photo.",
+  "short_description": "图形字标：把照片主体最关键的轮廓或特征，直接做进一枚极简定制字标的字母里",
+  "zh-CN": {
+    "name": "图形字标",
+    "tagline": "把照片主体最关键的特征，做进一枚定制字标的字母结构里。",
+    "look": "照片主体最好认的轮廓、姿态或局部特征被提炼成几何图形，直接融进字母或标志结构里，图和字是同一个符号，而不是图标旁边放标题。主文字是一个简短的名称或词组，取自主体名称、地点或寓意，最多再配一行很小的类别或标语。背景是浅色纯色，标志用黑白或从照片里取的一种颜色，大小适中，四周留白充足，字距讲究。",
+    "traits": ["图文一体", "文字结构", "特征嵌入", "视觉字距", "品牌标识"],
+    "good": [
+      "主体有一眼能认的外形或特征：猫的耳朵、灯塔、自行车、一座山峰",
+      "本身带名字的对象：一家咖啡馆、一个地标、你家宠物的名字",
+      "想做成小店、活动、账号或个人品牌标志的照片"
+    ],
+    "poor": [
+      "没有单一主体的杂乱场景或大合照，很难提炼出一个特征",
+      "想要完整插画、写实画面或保留照片细节的需求",
+      "想要卡通吉祥物、旅游海报或装饰繁多的效果"
+    ]
+  },
+  "en": {
+    "name": "Graphic Wordmark",
+    "tagline": "Builds the defining feature of your photo's subject into the letters of a custom wordmark.",
+    "look": "The subject's most recognisable outline, pose or detail is reduced to a geometric shape and worked into the letters or the mark itself, so image and type read as one symbol, not an icon next to a title. The main text is one short name or phrase taken from the subject, the place or its meaning, with at most one small line of category or slogan. The background is a plain light colour; the mark is black and white or uses a single colour from the photo, at a medium size with plenty of space and careful letter spacing.",
+    "traits": ["Image and type as one", "Letter construction", "Embedded feature", "Optical spacing", "Brand mark"],
+    "good": [
+      "Subjects with an instantly recognisable shape or feature: a cat's ears, a lighthouse, a bicycle, a mountain peak",
+      "Things that already have a name: a café, a landmark, your pet",
+      "Photos you want to turn into a logo for a shop, an event, an account or a personal brand"
+    ],
+    "poor": [
+      "Busy scenes or group photos with no single subject to distil",
+      "Requests for a full illustration, a realistic picture or the photo's fine detail",
+      "Cartoon mascots, tourist-poster looks or heavily decorated designs"
+    ]
+  },
+  "ja": {
+    "name": "グラフィック・ワードマーク",
+    "tagline": "写真の主役の決定的な特徴を、カスタムワードマークの文字の構造に組み込みます。",
+    "look": "主役のいちばん見分けやすい輪郭、姿勢、部分を幾何学的な形に整理し、文字やマークの構造そのものに溶け込ませます。アイコンの横にタイトルを置くのではなく、絵と文字がひとつの記号になります。メインの文字は主役の名前、場所、意味から取った短い名前やフレーズで、添えるのは小さな分類やスローガン一行まで。背景は淡い無地、マークは白黒か写真から取った一色で、中くらいの大きさに余白をたっぷりとり、字間も丁寧に整えます。",
+    "traits": ["図と文字の一体化", "文字の構造", "特徴の埋め込み", "視覚的な字間", "ブランドマーク"],
+    "good": [
+      "一目でわかる形や特徴がある主役：猫の耳、灯台、自転車、山の頂",
+      "もともと名前があるもの：カフェ、ランドマーク、飼っているペット",
+      "お店、イベント、アカウント、個人ブランドのロゴにしたい写真"
+    ],
+    "poor": [
+      "主役がひとつに絞れない雑然とした場面や集合写真",
+      "完成したイラスト、写実的な絵、写真の細部を残したい場合",
+      "キャラクター風マスコット、観光ポスター風、装飾の多いデザイン"
+    ]
+  },
+  "ko": {
+    "name": "그래픽 워드마크",
+    "tagline": "사진 주인공의 결정적인 특징을 맞춤 워드마크의 글자 구조 안에 넣습니다.",
+    "look": "주인공의 가장 알아보기 쉬운 윤곽, 자세, 부분을 기하학적 형태로 정리해 글자나 마크 구조 자체에 녹여 넣습니다. 아이콘 옆에 제목을 두는 것이 아니라 그림과 글자가 하나의 기호가 됩니다. 메인 글자는 주인공의 이름, 장소, 의미에서 뽑은 짧은 이름이나 문구이고, 곁들이는 것은 작은 분류어나 슬로건 한 줄 정도입니다. 배경은 연한 단색, 마크는 흑백이거나 사진에서 가져온 한 가지 색으로, 중간 크기에 여백을 넉넉히 두고 자간을 세심하게 맞춥니다.",
+    "traits": ["그림과 글자의 일체화", "글자 구조", "특징 삽입", "시각적 자간", "브랜드 마크"],
+    "good": [
+      "한눈에 알아볼 형태나 특징이 있는 주인공: 고양이 귀, 등대, 자전거, 산봉우리",
+      "원래 이름이 있는 대상: 카페, 랜드마크, 키우는 반려동물",
+      "가게, 행사, 계정, 개인 브랜드 로고로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "주인공을 하나로 추리기 어려운 복잡한 장면이나 단체 사진",
+      "완성된 일러스트, 사실적인 그림, 사진의 세부를 원하는 경우",
+      "캐릭터 마스코트, 관광 포스터 느낌, 장식이 많은 디자인"
+    ]
+  },
+  "ar": {
+    "name": "علامة نصية رسومية",
+    "tagline": "يدمج السمة الأوضح في موضوع صورتك داخل حروف علامة نصية مصممة خصيصاً.",
+    "look": "يُختزل أوضح خط خارجي أو وضعية أو تفصيل في الموضوع إلى شكل هندسي يُبنى داخل الحروف أو بنية العلامة نفسها، فتصبح الصورة والكتابة رمزاً واحداً لا أيقونة بجانب عنوان. النص الرئيسي اسم أو عبارة قصيرة مأخوذة من الموضوع أو المكان أو معناه، ومعه سطر صغير واحد على الأكثر لفئة أو شعار. الخلفية لون فاتح سادة، والعلامة بالأبيض والأسود أو بلون واحد من الصورة، بحجم متوسط ومساحات فارغة واسعة وتباعد حروف مدروس.",
+    "traits": ["الصورة والنص كيان واحد", "بنية الحروف", "سمة مدمجة", "تباعد بصري", "هوية العلامة"],
+    "good": [
+      "موضوع له شكل أو سمة تُعرف فوراً: أذنا قطة، منارة، دراجة، قمة جبل",
+      "أشياء لها اسم أصلاً: مقهى، معلم شهير، حيوانك الأليف",
+      "صور تريد تحويلها إلى شعار لمتجر أو فعالية أو حساب أو علامة شخصية"
+    ],
+    "poor": [
+      "مشاهد مزدحمة أو صور جماعية لا يبرز فيها موضوع واحد",
+      "طلب رسم كامل أو صورة واقعية أو الحفاظ على تفاصيل الصورة",
+      "تمائم كرتونية أو مظهر ملصقات سياحية أو تصاميم مثقلة بالزخرفة"
+    ]
+  }
+}

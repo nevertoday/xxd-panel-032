@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-032
-description: "Create XXD Panel 032 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-032 or requests the exact Panel 032 style."
+description: "XXD Panel 032｜Graphic Wordmark: turns the most recognisable outline, posture or feature of the photo's subject into part of a custom wordmark, so the letters and the image form one simple, geometric logo rather than an icon beside a title. A short name drawn from the subject, place or meaning, with at most a tiny secondary line, sits at a comfortable medium size on a plain light background in black and white or one colour taken from the photo. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-032 or asks for a custom logo, wordmark, lettermark or minimal brand mark from a photo."
 ---
 
 # XXD Panel 032
